@@ -1,0 +1,5 @@
+
+# SyntaxError
+# print "Hola"
+
+# NameError

@@ -1,0 +1,10 @@
+{
+    "Nombre": "Daniel",
+    "Apellido": "Caballero",
+    "Edad": 35,
+    "Languajes": [
+        "Python",
+        "Swift",
+        "Kotlin"
+    ]
+}
